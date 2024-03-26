@@ -1,0 +1,9 @@
+ Q1- Create an API GATEWAY(LAMBDA) and trigger the api using Postman
+Store the user Details (json format) in Dynamo DB and S3 also store Unique key in Dynamo DB
+Create Partition Key , Sort Key ,Enable Search query on  data 
+
+Q2- take dynamodb backup and store in S3 Hint:- Scan Dynamo db and store the json into s3
+with timestamp
+
+Q3- upload csv file which contains the student data using postman on S3 after that trigger lambda 
+and store all the details in dynamo db
