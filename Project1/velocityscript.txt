@@ -1,0 +1,6 @@
+INSIDE INTEGRATION REQUEST---->
+                               MAPPING TEMPLATE------->
+                                                        application/json----->
+                                                                               {
+                                                                                  "studId":"$input.params('studentid')"
+									        }
